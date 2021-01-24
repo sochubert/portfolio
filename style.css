@@ -105,10 +105,13 @@ p {
   align-items: center;
   color: var(--color-white);
   padding: 16px;
+  transition: all var(--animation-duration) ease-in-out;
+  z-index: 1;
 }
 
 #navbar.navbar--dark {
   background-color: var(--color-blue);
+  padding: 16px;
 }
 
 .navbar__menu {
@@ -150,7 +153,7 @@ p {
 #home {
   background: url("img/home-background.png") center/cover no-repeat;
   padding: 40px;
-  padding-top: 120px;
+  padding-top: 100px;
   text-align: center;
 }
 
