@@ -433,7 +433,7 @@ p {
   background-color: var(--color-orange);
 }
 
-/* Testimonials
+/* Testimonials */
 #testimonials {
   background-color: var(--color-light-white);
 }
@@ -475,7 +475,7 @@ p {
 
 .testimonial__speech-bubble a {
   color: var(--color-blue);
-} */
+}
 
 /* Contact */
 #contact {
