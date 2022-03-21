@@ -612,6 +612,10 @@ p {
     margin-bottom: 30px;
   }
 
+  .giphy {
+    width: 300px;
+  }
+
   .skillset {
     flex-direction: column;
   }
